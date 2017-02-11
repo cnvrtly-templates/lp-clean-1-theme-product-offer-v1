@@ -1,0 +1,13 @@
+.list-style-fa-1 li {
+  list-style: none;
+  padding-left: 1.2em;
+  &:before{
+    font-size: $paragraph-font-size-2x;
+    content: '\f1b0';
+    font-family: FontAwesome;
+    display: inline-block;
+    margin-left: -1.2em;
+    width: 1.2em;
+   /* color: #2ecc71;*/
+  }
+}

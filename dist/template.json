@@ -1,0 +1,15 @@
+{
+  "id": "lp_bright-theme_lp-bright-theme-live-event",
+    "title": "Narrow Video landing page - bright",
+    "groupId": "landing",
+    "description":"Page with 2 column video and CTA button." ,
+    "tags":"type:landing page,template:video"
+    ,"visibleTo":[]
+,"tagyCmsComponents":[
+  {
+    "title":"Section With Gallery"
+  ,"html":"<div class=\"content-w no-zig-zag editable-odd_item_background-color editable-odd_item_text-color \" tagy-cms-component=\"\" editable-title=\"List Item\"><div class=\"content-background\">    <section class=\"row content \">        <header class=\"content-header\" style=\"text-align: center\">            <img class=\"icon-center round-shape shrink-on-small\" tagy-cms-editable editable-title=\"Header Image\" src=\"http://lh3.googleusercontent.com/Ra5AKp3OabyermVxyKGMKAB-yTTvvC5RnRS4FmsEQrlygYsD22_W3L6_zhGi665TDyEfVXF_i8FoOiiJ_g\"/><h1 tagy-cms-editable editable-title=\"Title\" class=\"content-title title-2 editable-item_title-color\">Section title number one</h1>            <p tagy-cms-editable editable-title=\"Sub Title\">                Sub title or short<br/> description            </p>        </header>        <div class=\"content-body\"><div class=\"row cnv-items-gallery ng-isolate-scope\" tagy-cms-gallery=\"\"> <div class=\"small-12 large-6 columns\" tagy-cms-component=\"gallery item\" style=\"height: 270px;\"> <div class=\"row\"> <div class=\"small-12 columns text-center\">  <img tagy-cms-editable=\"preview image\" src=\"http://lh3.googleusercontent.com/Ra5AKp3OabyermVxyKGMKAB-yTTvvC5RnRS4FmsEQrlygYsD22_W3L6_zhGi665TDyEfVXF_i8FoOiiJ_g=s160\" class=\"ng-isolate-scope\"> <h4 tagy-cms-editable=\"preview title\">Gallery Item Title</h4> <p tagy-cms-editable=\"preview text\">Some description goes here</p> </div> </div> </div> </div><p tagy-cms-editable editable-title=\"Body Text\">Pellentesque tortor libero, consequat in aliquam vestibulum, eleifend ut metus. Integer convallis eget erat a mollis. Nulla eget neque nisl. Mauris nulla tortor, bibendum non faucibus quis, pulvinar ac diam. Aliquam egestas quam lectus, sed varius sem pulvinar vel. Maecenas felis nulla, hendrerit id auctor quis, porta sit amet nisl. Nunc varius varius libero, sollicitudin placerat enim. Integer quis arcu congue, pellentesque felis vitae, tincidunt erat. Proin ut diam varius justo aliquam ullamcorper. Vivamus non dui id augue lobortis pulvinar. In bibendum viverra arcu id fringilla.</p>        </div>    </section></div>     </div>"
+  ,"global":"false", "visibleToPageTags":""
+  }
+]
+}

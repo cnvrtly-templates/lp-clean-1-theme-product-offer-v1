@@ -1,0 +1,14 @@
+{
+  "name": "cnvrtly page template",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1",
+    "foundation": "~4",
+    "font-awesome": "*",
+    "foundation-responsive-zig-zag-layout-scss": "*",
+    "cnvrtly-components": "*",
+    "foundation-responsive-sub-menu": "*",
+    "easypie": "~2.1.6"
+  },
+  "devDependencies": {}
+}
