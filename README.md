@@ -6,8 +6,8 @@
 ###4) replace "cnvrtly-templates" in app/index.html with new repo username/organization
 ###5) if you decide to rename "lp-bright-theme-live-event" replace "lp-bright-theme-live-event" in app/index.html
 ###6) run "npm install && bower install" to get all dependencies
-###7) run "grunt server" to see live updates when editing index.html
-###8) when you finish editing run "grunt" to get optimized page template in "dist" folder
+###7) run "grunt server" to see live updates when editing app/index.html
+###8) when you finish editing run "grunt" to get optimized page template in "template-dist" folder
 ###9) commit & push to your github and your Cnvrtly page template is visible at https://[new-repo-username-or-organization].github.io/[current-repo-name-or-new]/template-dist/
 ###10) when adding new github.io page template in Cnvrtly paste the link (https://[new-repo-username-or-organization].github.io/[current-repo-name-or-new]/template-dist/) and you can edit & save new landing page in Cnvrtly marketing automation app
 ###11) build your new "freedom funnel" with cnvrtly.com and enjoy
