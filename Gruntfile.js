@@ -21,7 +21,7 @@ module.exports = function (grunt) {
     // configurable paths
     var yeomanConfig = {
         app: 'app',
-        dist: 'dist'// gaeWebappPath+'/_templates/lp/bright-theme/lp-bright-theme-live-event/'//'dist'   //'~/dev/src/bower-local/angular-edit-inline/angular-edit-inline-demo/app/magnet-template/dist'//
+        dist: 'template'// gaeWebappPath+'/_templates/lp/bright-theme/lp-bright-theme-live-event/'//'dist'   //'~/dev/src/bower-local/angular-edit-inline/angular-edit-inline-demo/app/magnet-template/dist'//
     };
     try {
         yeomanConfig.app = require('./bower.json').appPath || yeomanConfig.app;
