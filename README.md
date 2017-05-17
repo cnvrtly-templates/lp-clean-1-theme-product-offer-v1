@@ -2,13 +2,13 @@ How to create your own custom template:
 
 1) fork this repo and clone it to your machine
 
-2) replace "cnvrtly-templates" and optional repo name (if you decide to rename "lp-bright-theme-live-event") in top repo link to https://[new-repo-username-or-organization].github.io/[optional-new-repo-name]/template-dist/
+2) replace "cnvrtly-templates" and optional repo name (if you decide to rename "lp-clean-1-theme-product-offer-v1") in top repo link to https://[new-repo-username-or-organization].github.io/[optional-new-repo-name]/template-dist/
 
 3) clone forked repo to your computer
 
 4) replace "cnvrtly-templates" in app/index.html with new repo username/organization
 
-5) if you decide to rename "lp-bright-theme-live-event" replace "lp-bright-theme-live-event" in app/index.html
+5) if you decide to rename "lp-clean-1-theme-product-offer-v1" replace "lp-clean-1-theme-product-offer-v1" in app/index.html
 
 6) run "npm install && bower install" to get all dependencies
 

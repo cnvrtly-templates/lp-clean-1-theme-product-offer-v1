@@ -21,7 +21,7 @@ module.exports = function (grunt) {
     // configurable paths
     var yeomanConfig = {
         app: 'app',
-        dist: 'template-dist'// gaeWebappPath+'/_templates/lp/bright-theme/lp-bright-theme-live-event/'//'dist'   //'~/dev/src/bower-local/angular-edit-inline/angular-edit-inline-demo/app/magnet-template/dist'//
+        dist: 'template-dist'// gaeWebappPath+'/_templates/lp/bright-theme/lp-clean-1-theme-product-offer-v1/'//'dist'   //'~/dev/src/bower-local/angular-edit-inline/angular-edit-inline-demo/app/magnet-template/dist'//
     };
     try {
         yeomanConfig.app = require('./bower.json').appPath || yeomanConfig.app;
@@ -549,7 +549,7 @@ module.exports = function (grunt) {
         'build'
     ]);
 
-    var currTemplPath="/lp/bright-theme/lp-bright-theme-live-event"
+    var currTemplPath="/lp/bright-theme/lp-clean-1-theme-product-offer-v1"
 
 
 
@@ -634,7 +634,7 @@ module.exports = function (grunt) {
         //grunt.fail.warn('PPP='+(newTemplatesPath),6)
 
         //grunt.fail.warn('PPP='+(newTempName),6)
-        // set old values from prev. new values above or to /tempType/tempGroup/tempName : /lp/bright-theme/lp-bright-theme-live-event
+        // set old values from prev. new values above or to /tempType/tempGroup/tempName : /lp/bright-theme/lp-clean-1-theme-product-offer-v1
 
         if(currTemplPath.indexOf('/')==0)currTemplPath=currTemplPath.substr(1)
         var oldPathSpl=currTemplPath.split("/")
